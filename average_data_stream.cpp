@@ -1,3 +1,7 @@
+// Given a stream of numbers, print average (or mean) of the stream at every point.
+// http://www.geeksforgeeks.org/average-of-a-stream-of-numbers/ 
+
+
 #include <iostream>
 #include <vector>
 
